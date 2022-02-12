@@ -1,3 +1,5 @@
+Leaning coding PHP OOP with Edwin Diaz.
+
 # admin/includes/db.php
 ----------------------------------------------------------
 ## connect database
